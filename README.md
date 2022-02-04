@@ -16,7 +16,7 @@
 In this we can register the user details from the singin form and allows the user to view the details from login form.
 
 ## Technologies
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<HTML CSS>-<JAVASCRIPT>-<COLOR>.svg)](https://shields.io/)
 
 
 App is created with:
