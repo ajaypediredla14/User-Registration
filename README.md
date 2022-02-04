@@ -10,7 +10,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
 
 ## General Info
 In this we can register the user details from the singin form and allows the user to view the details from login form.
@@ -31,7 +30,7 @@ To run this project, Download or clone my github repository locally:
 * open the terminal in the main directory of our project.
 * Make sure you have installed all the required package.json modules.
 * Setup your Xampp for Mysql Databasee. 
-* Run the webste locally using npm run start
+* Run the website locally using npm run start
 ```
 
 
